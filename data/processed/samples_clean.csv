@@ -1,0 +1,25 @@
+sample,location,sample_type,transect,shore_height,lat,lon,salinity,microplastic,litter
+THW0,Yarmer Beach,Water,NA,NA,NA,NA,35.7,15.75,NA
+THW25,Yarmer Beach,Water,NA,NA,50.263933333333334,-3.8616,35.9,15.5,NA
+THW50,Yarmer Beach,Water,NA,NA,50.264066666666665,-3.8618333333333332,35.7,23.5,NA
+THL0,Yarmer Beach,Sediment,THL,low strand,NA,NA,NA,3,4
+THL25,Yarmer Beach,Sediment,THL,low strand,50.263933333333334,-3.8616,NA,9,4
+THL50,Yarmer Beach,Sediment,THL,low strand,50.264066666666665,-3.8618333333333332,NA,15,4
+THM0,Yarmer Beach,Sediment,THM,high strand,50.26376666666667,-3.8611,NA,30,27
+THM25,Yarmer Beach,Sediment,THM,high strand,50.264,-3.861266666666667,NA,38,27
+THM50,Yarmer Beach,Sediment,THM,high strand,50.2642,-3.861483333333333,NA,31,27
+THV0,Yarmer Beach,Sediment,THV,vegetation line,50.263933333333334,-3.8608666666666664,NA,28,23
+THV25,Yarmer Beach,Sediment,THV,vegetation line,50.264133333333334,-3.86105,NA,21,23
+THV50,Yarmer Beach,Sediment,THV,vegetation line,50.2643,-3.861283333333333,NA,36,23
+MAW0,Sutton Harbour Marina,Water,NA,NA,50.365383333333334,-4.129266666666667,33.3,32.5,NA
+MAW25,Sutton Harbour Marina,Water,NA,NA,50.365966666666665,-4.1303,33.1,26,NA
+MAW50,Sutton Harbour Marina,Water,NA,NA,50.36606666666667,-4.1306,32.9,48.5,NA
+MAL0,Sutton Harbour Marina,Sediment,MAL,low strand,50.365383333333334,-4.129266666666667,NA,7,43
+MAL25,Sutton Harbour Marina,Sediment,MAL,low strand,50.365966666666665,-4.1303,NA,6,43
+MAL50,Sutton Harbour Marina,Sediment,MAL,low strand,50.36606666666667,-4.1306,NA,10,43
+MAM0,Sutton Harbour Marina,Sediment,MAM,high strand,50.36565,-4.129683333333333,NA,12,95
+MAM25,Sutton Harbour Marina,Sediment,MAM,high strand,50.365883333333336,-4.129616666666666,NA,14,95
+MAM50,Sutton Harbour Marina,Sediment,MAM,high strand,50.366166666666665,-4.12995,NA,23,95
+MAV0,Sutton Harbour Marina,Sediment,MAV,vegetation line,50.36568333333334,-4.129566666666666,NA,21,120
+MAV25,Sutton Harbour Marina,Sediment,MAV,vegetation line,50.3659,-4.129583333333334,NA,25,120
+MAV50,Sutton Harbour Marina,Sediment,MAV,vegetation line,50.36618333333333,-4.129866666666667,NA,28,120

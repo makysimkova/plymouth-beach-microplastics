@@ -1,0 +1,25 @@
+﻿sample,beach,water/sediment,transect,coordinates,salinity,microplastic
+THW0,thurlestone,water,NA,N50°21.928' W004°07.737',35.7,15.75
+THW25,thurlestone,water,NA,N50°15.836' W003°51.696',35.9,15.5
+THW50,thurlestone,water,NA,N50°15.844'W003°51.710',35.7,23.5
+THL0,thurlestone,sediment,THL,N50°21.928' W004°07.737',NA,3
+THL25,thurlestone,sediment,THL,N50°15.836' W003°51.696',NA,9
+THL50,thurlestone,sediment,THL,N50°15.844' W003°51.710',NA,15
+THM0,thurlestone,sediment,THM,N50°15.826' W003°51.666',NA,30
+THM25,thurlestone,sediment,THM,N50°15.840' W003°51.676',NA,38
+THM50,thurlestone,sediment,THM,N50°15.852' W003°51.689',NA,31
+THV0,thurlestone,sediment,THV,N50°15.836' W003°51.652',NA,28
+THV25,thurlestone,sediment,THV,N50°15.848' W003°51.663',NA,21
+THV50,thurlestone,sediment,THV,N50°15.858' W003°51.677',NA,36
+MAW0,marina,water,NA,N50°21.923' W004°07.756',33.3,32.5
+MAW25,marina,water,NA,N50°21.958' W004°07.818',33.1,26
+MAW50,marina,water,NA,N50°21.964' W004°07.836',32.9,48.5
+MAL0,marina,sediment,MAL,N50°21.923' W004°07.756',NA,7
+MAL25,marina,sediment,MAL,N50°21.958' W004°07.818',NA,6
+MAL50,marina,sediment,MAL,N50°21.964' W004°07.836',NA,10
+MAM0,marina,sediment,MAM,N50°21.939' W004°07.781',NA,12
+MAM25,marina,sediment,MAM,N50°21.953' W004°07.777',NA,14
+MAM50,marina,sediment,MAM,N50°21.970' W004°07.797',NA,23
+MAV0,marina,sediment,MAV,N50°21.941' W004°07.774',NA,21
+MAV25,marina,sediment,MAV,N50°21.954' W004°07.775',NA,25
+MAV50,marina,sediment,MAV,N50°21.971' W004°07.792',NA,28

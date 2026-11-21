@@ -1,0 +1,7 @@
+measure,location,n,median,iqr,min,max
+"Microplastics, water",Sutton Harbour Marina,3,32.5,11.25,26,48.5
+"Microplastics, water",Yarmer Beach,3,15.75,4,15.5,23.5
+"Microplastics, sediment",Sutton Harbour Marina,9,14,13,6,28
+"Microplastics, sediment",Yarmer Beach,9,28,16,3,38
+Macro-litter,Sutton Harbour Marina,9,95,77,43,120
+Macro-litter,Yarmer Beach,9,23,23,4,27

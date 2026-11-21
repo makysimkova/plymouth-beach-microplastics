@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Comparative analysis of microplastic and macroplastic pollution on a protected coastal beach and an urban port beach in Southwest England"
+authors:
+  - family-names: "Šimková"
+    given-names: "Markéta"
+    affiliation: "Imperial College London"
+date-released: 2025-06-20
+license: MIT
+repository-code: "https://github.com/makysimkova/plymouth-beach-microplastics"
+keywords:
+  - microplastics
+  - macroplastics
+  - beach litter
+  - coastal pollution
+  - R

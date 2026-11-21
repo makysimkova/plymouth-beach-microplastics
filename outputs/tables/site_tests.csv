@@ -1,0 +1,5 @@
+test,comparison,statistic,df,p_value
+Kruskal-Wallis,Macro-litter by site,13.114285714285707,1,2.930525201924909e-4
+Kruskal-Wallis,Water microplastics by site,3.8571428571428577,1,0.04953461343562669
+Kruskal-Wallis,Sediment microplastics by site,2.127197518097211,1,0.1447051104485247
+Spearman,Litter vs sediment microplastics,0.07218051052309479,NA,0.7759337715491568
